@@ -1,0 +1,14 @@
+{
+  "name": "livecam-server",
+  "version": "0.0.1",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Athos Palmer",
+  "license": "MIT",
+  "dependencies": {
+    "websocket": "^1.0.24"
+  }
+}
